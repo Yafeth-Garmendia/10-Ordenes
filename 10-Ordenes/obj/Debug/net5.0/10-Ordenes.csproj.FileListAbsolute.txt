@@ -1,0 +1,16 @@
+C:\L2\c-sharp\10-ordenes\bin\Debug\net5.0\10-Ordenes.exe
+C:\L2\c-sharp\10-ordenes\bin\Debug\net5.0\10-Ordenes.deps.json
+C:\L2\c-sharp\10-ordenes\bin\Debug\net5.0\10-Ordenes.runtimeconfig.json
+C:\L2\c-sharp\10-ordenes\bin\Debug\net5.0\10-Ordenes.runtimeconfig.dev.json
+C:\L2\c-sharp\10-ordenes\bin\Debug\net5.0\10-Ordenes.dll
+C:\L2\c-sharp\10-ordenes\bin\Debug\net5.0\10-Ordenes.pdb
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.csproj.AssemblyReference.cache
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.AssemblyInfoInputs.cache
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.AssemblyInfo.cs
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.dll
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\refint\10-Ordenes.dll
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.pdb
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\10-Ordenes.genruntimeconfig.cache
+C:\L2\c-sharp\10-ordenes\obj\Debug\net5.0\ref\10-Ordenes.dll
